@@ -1,5 +1,7 @@
 {
     "workbench.colorCustomizations": {
+        "editor.hoverHighlightBackground": "#393b4b9f",
+        "activityBar.inactiveForeground": "#ffffff",
         "activityBar.background": "#001890",
         "titleBar.activeBackground": "#0022C9",
         "titleBar.activeForeground": "#F9FAFF"
